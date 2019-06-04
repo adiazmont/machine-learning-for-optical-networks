@@ -1,0 +1,12 @@
+name: workshop-environment
+channels:
+ - conda-forge
+dependencies:
+ - python
+ - numpy
+ - matplotlib
+ - time
+ - sklearn
+ - csv
+ - itertools
+ - scipy
