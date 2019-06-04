@@ -6,7 +6,4 @@ dependencies:
  - numpy
  - matplotlib
  - time
- - sklearn
- - csv
- - itertools
  - scipy
